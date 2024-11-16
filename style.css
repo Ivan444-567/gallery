@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    width: 1200px;
+    margin: 0px auto;
+}
+.header{
+    background-color:#0890ff; 
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+   padding: 20px;
+   margin: 0px;
+   list-style: none;
+
+
+}
+.link{
+    display: block;
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    background-color:  rgb(255, 243, 110) ;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+
+}
+.link :hover{
+font-weight: 700;
+}
+.gallery {
+    background-image: blue;
+}
+.gallery-list{
+    margin: 40px;
+    flex-wrap: 10px;
+}
+.gallery-item {
+    margin: 40px;;
+}
