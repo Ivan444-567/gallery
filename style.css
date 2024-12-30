@@ -1,13 +1,10 @@
 body{
     margin: 0px;
     padding: 0px;
-}
-.container {
-    width: 1200px;
-    margin: 0px auto;
+    background-color:linear-gradient(90deg, rgba(36,0,0,0.9934348739495799) 0%, rgba(19,191,19,1) 47%, rgba(0,255,250,1) 100%);   
 }
 .header{
-    background-color:#0890ff; 
+    background-color: #0890ff; 
 }
 .menu{
     display: flex;
@@ -48,7 +45,3 @@ font-weight: 700;
     box-shadow: 0 -10px 10px -5px rgb(36,0,0) rgb(44, 44, 123) rgb(16, 154, 16);
     background: linear-gradient(90deg, rgba(36,0,0,0.9934348739495799) 0%, rgba(32,231,2,1) 47%, rgba(0,255,250,1) 100%);
 }
-html{
-    background-color:  rgba(36,0,0,0.9934348739495799) 0%, rgba(19,191,19,1) 47%, rgba(0,255,250,1);
-}
-    
