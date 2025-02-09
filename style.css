@@ -1,0 +1,55 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    background-color:yellowgreen;
+}
+.header{
+    background-color: #0890ff; 
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+   padding: 20px;
+   margin: 0px;
+   list-style: none;
+
+
+}
+.link{
+    display: block;
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    background-color:  rgb(255, 243, 110) ;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+
+}
+.link :hover{
+font-weight: 700;
+}
+.gallery {
+    
+    background-color: blanchedalmond;
+}
+.gallery-list{
+   padding: 40px;
+   display: flex;
+   
+}
+.gallery-item {
+    margin-bottom:  40px;;
+}
+.btn{
+    background-color: rgb(6, 85, 43);
+    color: rgb(16, 46, 121);
+    padding: 10px 20px;
+    font-size: 18px;
+    box-shadow: 0 -10px 10px -5px rgb(36,0,0) rgb(44, 44, 123) rgb(16, 154, 16);
+    background: linear-gradient(90deg, rgba(36,0,0,0.9934348739495799) 0%, rgba(32,231,2,1) 47%, rgba(0,255,250,1) 100%);
+}
+.box{
+    display: flex;
+}
+
+      
