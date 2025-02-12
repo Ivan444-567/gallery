@@ -54,7 +54,7 @@ font-weight: 700;
     background: linear-gradient(90deg, rgba(0,255,250,1) 42%, rgba(36,0,0,0.9934348739495799) 74%);
 }
 .btn :hover{
-    box-shadow: 10px 5px 5px rgba(36,0,0,0.9934348739495799);
+    box-shadow: 10px 5px 5px rgba(6, 78, 123, 0.993);
 }
 
       
